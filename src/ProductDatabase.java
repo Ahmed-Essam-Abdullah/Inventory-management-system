@@ -13,7 +13,7 @@ public class ProductDatabase extends Database {
     private ArrayList<Product> records = new ArrayList<>();
 
     public ProductDatabase(String filename) {
-        super(filename);
+        super("Products.txt");
     }
 
     @Override

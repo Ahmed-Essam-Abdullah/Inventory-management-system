@@ -1,0 +1,15 @@
+P1001,Laptop,Dell,TechSupplier,15,1250.5
+P1002,Smartphone,Samsung,MobileHub,31,850.0
+P1003,Headphones,Sony,SoundWorld,50,150.75
+P1004,Tablet,Apple,TechSupplier,10,1450.0
+P1005,Monitor,LG,ScreenCenter,20,720.99
+P1006,Keyboard,Logitech,PeripheralStore,100,60.0
+P1007,Mouse,HP,PeripheralStore,120,35.5
+P1008,Printer,Canon,OfficeSupplies,8,480.0
+P1009,Router,TP-Link,NetWorld,25,220.9
+P1010,Smartwatch,Xiaomi,GadgetZone,40,180.0
+P1011,Webcam,Logitech,PeripheralStore,50,95.0
+P1012,Speaker,JBL,SoundWorld,30,300.0
+P1013,External HDD,Seagate,StorageHub,45,650.0
+P1014,SSD,Kingston,StorageHub,60,500.0
+P1015,PowerBank,Anker,GadgetZone,70,200.0
